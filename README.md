@@ -246,8 +246,9 @@ macest_point_prediction_conf = macest_model.predict_confidence_of_point_predicti
 
 ```
 
-## Contributing
-See the [`CONTRIBUTING.md`](./CONTRIBUTING.md) file for information about contributing to MACEst.
+## Contributors
+
+We are really greatful for [Fredrik](https://github.com/phantomwork), Eric(https://github.com/emoller) for contributing This project.
 
 
 ## Related Publications
