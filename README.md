@@ -248,7 +248,7 @@ macest_point_prediction_conf = macest_model.predict_confidence_of_point_predicti
 
 ## Contributors
 
-We are really greatful for [Fredrik](https://github.com/phantomwork), Eric(https://github.com/emoller) for contributing This project.
+We are really greatful for [Fredrik](https://github.com/phantomwork), [Eric](https://github.com/emoller) for contributing This project.
 
 
 ## Related Publications
